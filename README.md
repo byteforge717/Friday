@@ -44,10 +44,14 @@ friday/<br>
 
 ▶️ How to Run Friday<br>
 
+For Windows <br>
 ```bash
 cd friday
 python3 main.py
 ```
+For Linux<br>
+chmod +x script.sh
+./script.sh
 
 👨‍💻 Maintainer<br>
 Gaurav Sharma<br>
